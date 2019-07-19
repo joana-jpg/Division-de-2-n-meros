@@ -1,0 +1,8 @@
+Proceso Division_De_Dos_Numeros
+	Escribir "Escribe Un Número";
+	Leer n1;
+	Escribir "Escribe Un Número";
+	Leer n2;
+	dividir<-n1/n2;
+	Escribir "La division es:",dividir;
+FinProceso
